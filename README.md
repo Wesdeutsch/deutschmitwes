@@ -207,7 +207,7 @@
 <body>
     <header>
         <h1>Deutsche Literatur</h1>
-        <p>Ein akademisches Portal für Studierende der Portugiesisch-Deutsch-Philologie</p>
+        <p>Ein akademisches Portal für Studierende der Portugiesisch-Deutsch</p>
     </header>
     
     <nav>
@@ -251,7 +251,7 @@
                         <h3>Mittelalter (750-1500)</h3>
                         <div class="date">8.-15. Jahrhundert</div>
                         <p>Die Anfänge der deutschen Literatur mit Heldenepen, Minnesang und geistlicher Dichtung.</p>
-                        <a href="#mittelalter">Mehr erfahren →</a>
+                        <a href="#mittelalter"></a>
                     </div>
                 </div>
                 
@@ -262,7 +262,7 @@
                         <h3>Humanismus und Reformation</h3>
                         <div class="date">15.-16. Jahrhundert</div>
                         <p>Der Mensch im Mittelpunkt - Martin Luthers Bibelübersetzung revolutioniert die deutsche Sprache.</p>
-                        <a href="#humanismus">Mehr erfahren →</a>
+                        <a href="#humanismus"></a>
                     </div>
                 </div>
                 
@@ -273,7 +273,7 @@
                         <h3>Barock (1600-1720)</h3>
                         <div class="date">17. Jahrhundert</div>
                         <p>Vanitas-Motive, Gegensätze und die Vergänglichkeit des Lebens dominieren die Dichtung.</p>
-                        <a href="#barock">Mehr erfahren →</a>
+                        <a href="#barock"></a>
                     </div>
                 </div>
                 
@@ -284,7 +284,7 @@
                         <h3>Aufklärung (1720-1785)</h3>
                         <div class="date">18. Jahrhundert</div>
                         <p>Vernunft und Rationalität - Kants "Sapere aude!" wird zum Leitmotiv der Epoche.</p>
-                        <a href="#aufklaerung">Mehr erfahren →</a>
+                        <a href="#aufklaerung"></a>
                     </div>
                 </div>
                 
@@ -396,14 +396,14 @@
         
         <section id="ueber">
             <h2>Über dieses Projekt</h2>
-            <p>Diese Website wurde als akademische Ressource für Studierende der Portugiesisch-Deutsch-Philologie entwickelt, die sich mit der deutschen Literaturgeschichte beschäftigen. Unser Ziel ist es, einen umfassenden Überblick über die wichtigsten Epochen, Autoren und Werke zu bieten.</p>
+            <p>Diese Website wurde als akademische Ressource für Studierende der Portugiesisch-Deutsch entwickelt, die sich mit der deutschen Literaturgeschichte beschäftigen. Unser Ziel ist es, einen umfassenden Überblick über die wichtigsten Epochen, Autoren und Werke zu bieten.</p>
             <p>Die Inhalte werden regelmäßig aktualisiert und erweitert. Für Vorschläge oder Korrekturen kontaktieren Sie uns bitte über das Kontaktformular.</p>
         </section>
     </div>
     
     <footer>
-        <p>&copy; 2023 Deutsche Literatur - Ein akademisches Portal</p>
-        <p>Entwickelt für Studierende der Portugiesisch-Deutsch-Philologie</p>
+        <p>&copy; 2025 Deutsche Literatur - Ein akademisches Portal</p>
+        <p>Entwickelt für Studierende der Portugiesisch-Deutsch</p>
     </footer>
 </body>
 </html>
