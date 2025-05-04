@@ -295,7 +295,7 @@
                         <h3>Sturm und Drang (1767-1785)</h3>
                         <div class="date">Spätes 18. Jahrhundert</div>
                         <p>Jugendliche Rebellion gegen gesellschaftliche Normen - Geniekult und Gefühlsüberschwang.</p>
-                        <a href="#sturm-und-drang">Mehr erfahren →</a>
+                        <a href="#sturm-und-drang"></a>
                     </div>
                 </div>
                 
@@ -306,7 +306,7 @@
                         <h3>Weimarer Klassik (1786-1805)</h3>
                         <div class="date">1786-1805</div>
                         <p>Harmonie und Humanität - Goethe und Schiller prägen das klassische Ideal.</p>
-                        <a href="#weimarer-klassik">Mehr erfahren →</a>
+                        <a href="#weimarer-klassik"></a>
                     </div>
                 </div>
             </div>
